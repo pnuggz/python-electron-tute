@@ -11,7 +11,7 @@
     "zerorpc": "fyears/zerorpc-node"
   },
   "devDependencies": {
-    "electron": "^1.4.1",
+    "electron": "^15.5.5",
     "electron-packager": "^8.5.1"
   }
 }
